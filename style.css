@@ -1,0 +1,59 @@
+* {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+html, body {
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.selector-for-some-widget {
+    box-sizing: content-box;
+}
+
+h1 {
+    background-color:cadetblue;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 2%;
+    color:white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.btn {
+    color: cadetblue;
+    background-color: transparent;
+    border-color: cadetblue;
+}
+
+.btn:hover {
+    color: white;
+    background-color: cadetblue;
+    border-color: cadetblue;
+}
+
+.input-group-text, .form-control {
+    font-size: 12px;
+}
+
+.list-group-item {
+    font-size: 14px;
+}
+
+.card-title {
+    text-align: center;
+    background-color: cadetblue;
+    border-radius: 20px;
+    color:white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 2%;
+}
+
+h3 {
+    text-align: center;
+    color: cadetblue;
+    border: 2px solid cadetblue;
+    border-radius: 10px;
+}
