@@ -1,4 +1,4 @@
-## Sito web per l'adozione cani
+## Website for dog adoption
 
-- informazioni dei cani prese da un database
-- possibilità di mandare una proposta di adozione, con controllo degli errori
+- information of dogs taken from a database
+- Possibility of submitting a proposal for adoption, with error control
